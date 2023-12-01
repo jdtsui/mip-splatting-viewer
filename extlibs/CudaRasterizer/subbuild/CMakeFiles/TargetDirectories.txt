@@ -1,0 +1,3 @@
+/home/stereye/gaussian-splatting/SIBR_viewers/extlibs/CudaRasterizer/subbuild/CMakeFiles/cudarasterizer-populate.dir
+/home/stereye/gaussian-splatting/SIBR_viewers/extlibs/CudaRasterizer/subbuild/CMakeFiles/edit_cache.dir
+/home/stereye/gaussian-splatting/SIBR_viewers/extlibs/CudaRasterizer/subbuild/CMakeFiles/rebuild_cache.dir
