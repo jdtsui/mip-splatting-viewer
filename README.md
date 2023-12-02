@@ -2,7 +2,7 @@
 
 Based on the [SIBR-Core](https://gitlab.inria.fr/sibr/sibr_core) and [Mip-Splatting](https://niujinshuchong.github.io/mip-splatting/)
 
-#### Ubuntu 22.04
+#### Ubuntu 20.04
 
 You will need to install a few dependencies before running the project setup.
 
